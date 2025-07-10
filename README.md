@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Suzan Al Majdalawi @Sai24020
+- 👋 Hi, I’m Suzan Al Majdalawi @Sai24020 and have Diplom "⚡Webbutvecklare Frontend⚡" 💞️ https://true.lexicon.se/diploma-lexicon-suzan-al-majdalawi-256442-4104/?ref=linkedin-profile&zone=truecrt&lang=se 💞️
 - 👀 I’m interested in  HTML / CSS / Git-GitHub / VSCode / AdopePs and Audacity.
 - 🌱 I’m currently learning HTML / CSS / Git-GitHub / Agile-Scrum / VSCode / Vercel / Tailwaind / JavaScript / TypeScript / Next.js and React.
 - 💞️ I’m looking to collaborate on Git-GitHub / VSCode / Vercel / Tailwaind / JavaScript / TypeScript / Next.js and React.
