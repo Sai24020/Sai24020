@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sai24020
+- 👋 Hi, I’m Suzan Al Majdalawi @Sai24020
 - 👀 I’m interested in  HTML / CSS / Git-GitHub / VSCode / AdopePs and Audacity.
 - 🌱 I’m currently learning HTML / CSS / Git-GitHub / VSCode / AdopePs and Audacity.
 - 💞️ I’m looking to collaborate on Git-GitHub / VSCode .
