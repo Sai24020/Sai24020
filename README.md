@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Suzan Al Majdalawi @Sai24020
 - 👀 I’m interested in  HTML / CSS / Git-GitHub / VSCode / AdopePs and Audacity.
-- 🌱 I’m currently learning HTML / CSS / Git-GitHub / VSCode / AdopePs and Audacity.
-- 💞️ I’m looking to collaborate on Git-GitHub / VSCode .
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning HTML / CSS / Git-GitHub / Agile-Scrum / VSCode / Vercel / Tailwaind / JavaScript / TypeScript / Next.js and React.
+- 💞️ I’m looking to collaborate on Git-GitHub / VSCode / Vercel / Tailwaind / JavaScript / TypeScript / Next.js and React.
+- 📫 How to reach me ... 📫📫 https://www.linkedin.com/in/suzan-al-m-361028275/ 📫📫
+- 😄 Pronouns: ...Collaboration / flexibility / 👀 I like to develop myself in various new 👀 ...
 - ⚡ Fun fact my first project in Vercel:  🚀 🚀 https://supal.vercel.app/  🚀 🚀
 
 <!---
