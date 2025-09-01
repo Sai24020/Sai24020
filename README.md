@@ -8,7 +8,8 @@
 - 💞️ I’m looking to collaborate on Git-GitHub / VSCode / Vercel / Tailwaind / JavaScript / TypeScript / Next.js and React.
 - 
 - 📫 How to reach me ...
-- 📫📫 https://www.linkedin.com/in/suzan-al-m-361028275/ 📫📫
+- 📫📫 Portfolio: https://portfolio-suzan.vercel.app/ 📫📫
+- 📫📫📫 https://www.linkedin.com/in/suzan-al-m-361028275/ 📫📫📫
 - 
 - 😄 Pronouns: ...Collaboration / flexibility / 👀 I like to develop myself in various new 👀 ...
 - 
