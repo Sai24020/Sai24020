@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Suzan Al Majdalawi @Sai24020 and have Diplom "⚡Webbutvecklare Frontend⚡"
 - 👋👋 https://true.lexicon.se/diploma-lexicon-suzan-al-majdalawi-256442-4104/?ref=linkedin-profile&zone=truecrt&lang=se 💞️👋
 - 
+- 😄👋😄 I’m Started as a data teacher and began developing a website, of course with a mobile-friendly design first, and then för other sizes. Currently, I conduct tests on my older students,about thirty students, divided into groups , divided into different levels.
 - 👀 I’m interested in  HTML / CSS / Git-GitHub / VSCode / AdopePs and Audacity.
 - 
 - 🌱 I’m currently learning HTML / CSS / Git-GitHub / Agile-Scrum / VSCode / Vercel / Tailwaind / JavaScript / TypeScript / Next.js and React.
