@@ -2,7 +2,7 @@
 - 👋👋 https://true.lexicon.se/diploma-lexicon-suzan-al-majdalawi-256442-4104/?ref=linkedin-profile&zone=truecrt&lang=se 💞️👋
 - 
 - 😄👋😄 I’m Started as a data teacher and began developing a website, of course with a mobile-friendly design first, and then för other sizes. Currently, I conduct tests on my older students,about thirty students, divided into groups , divided into different levels.
-- This is my website (c-datorresan.netlify.app)
+- This is my website :💞️ cj-datorresan.netlify.app  💞️
 - 👀 I’m interested in  HTML / CSS / Git-GitHub / VSCode / AdopePs and Audacity.
 - 
 - 🌱 I’m currently learning Vue.js / Vite / HTML / CSS / Git-GitHub / Agile-Scrum / VSCode / Vercel / Tailwaind / JavaScript / TypeScript / Next.js and React.
